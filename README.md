@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Frames and windows](#Control-Flow)
-- [Cross window Communication](#Python-Functions)
-- [The Clickjacking Attack](#Introduction-to-Modules)
-- [ArrayBuffer and binary arrays](#Regular-Expressions)
+- [Control Flow](#Control-Flow)
+- [Python Functions](#Python-Functions)
+- [Introduction to modules](#Introduction-to-Modules)
+- [Regular Expressions](#Regular-Expressions)
 
 
 ## Control-Flow
